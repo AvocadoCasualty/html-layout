@@ -1,0 +1,40 @@
+*{
+    box-sizing: border-box;
+}
+
+header {
+    background-color: slategrey;
+    width: 100vw;
+    height: 20vh;
+}
+.left-pants {
+    background-color: lightgray;
+    width: 10vw;
+    height: 90vh;
+    float: left;
+}
+.middle-woo {
+    width: 75vw;
+    height: 60vh;
+    float: left;
+}
+        .top-box {
+            background-color: white;
+            width: 75vw;
+            height: 60vh;
+        }
+        .bottom-box {
+            background-color: slategrey;
+            height: 20vh;
+            width: 75vw;
+
+        }
+.righty-goober {
+    background-color: lightgrey;
+    width: 10vw;
+    height: 90vh;
+    float: left;
+}
+.clear {
+    clear: left;
+}
