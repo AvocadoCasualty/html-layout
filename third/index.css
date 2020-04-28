@@ -1,0 +1,39 @@
+*{
+    box-sizing: border-box;
+}
+header {
+    width: 100vw;
+    height: 80px;
+    padding: 10px;
+    background-color: lightgrey;
+}
+.blue-icon {
+    background-color: cornflowerblue;
+    height: 50px;
+    width: 50px;
+}
+.writing {
+    text-align: center;
+    padding: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.blue {
+    height: 100px;
+    width: 100vw;
+    background-color: cornflowerblue;
+}
+.green {
+    height: 100px;
+    width: 100vw;
+    background-color: lightseagreen;
+}
+.kinda-green {
+    height: 100px;
+    width: 100vw;
+    background-color: yellowgreen;
+}
+.yellow {
+    height: 100px;
+    width: 100vw;
+    background-color: yellow;
+}
