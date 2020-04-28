@@ -1,0 +1,60 @@
+*{
+    box-sizing: border-box;
+}
+header {
+    border: 5px solid black;
+    width: 90vw;
+    height: 40vh;
+    margin: 20px;
+    padding: 20px;
+}
+.smol-box {
+    height: 200px;
+    width: 80px;
+    background-color: blueviolet;
+    margin: 50px;
+    display: inline-block
+}
+.lerge-box {
+    height: 300px;
+    width: 400px;
+    background-color: green;
+    display: inline-block;
+    margin: 50px;
+}
+.circle {
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+    background-color: skyblue;
+    display: inline-block;
+    margin: 50px;
+}
+.middle-dooer {
+    border: 5px dotted black;
+    width: 90vw;
+    height: 40vh;
+    margin: 20px;
+    padding: 40px;
+}
+.shadow {
+    background-color: lightgoldenrodyellow;
+    height: 20vh;
+    margin: 50px;
+    filter: drop-shadow(10px 10px 4px black)
+}
+.henlo {
+    height: 40vh;
+    width: 50vw;
+    border: 2px black solid;
+    margin: 0 auto;
+    padding: 30px;
+    text-align: center;
+    font-size: 72px;
+    font-weight: 700;
+    letter-spacing: 10px;
+    color: darkblue;
+    background-color: white;
+    filter: drop-shadow(4px 4px 4px black)
+}
+
